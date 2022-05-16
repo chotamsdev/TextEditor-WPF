@@ -92,10 +92,25 @@
                     <ComboBoxItem>32</ComboBoxItem>
                     <ComboBoxItem>48</ComboBoxItem>
                 </ComboBox>
-                
+
             </ToolBar>
         </ToolBarTray>
+        <TabControl Height="367" Width="793">
+            <TabItem Header="Registration">
+                <Grid Background="#10111f">
+                    <TextBox x:Name="loginField" Width="300" Height="50" Foreground="White" Background="#202374" Margin="244,114,243,175" FontSize="28" />
+                    <PasswordBox x:Name="passField" Width="300" Height="50" Foreground="White" Background="#202374" HorizontalAlignment="Center" Margin="244,189,243,100" FontSize="28" />
+                    <Label x:Name="label" Content="Log in:" Foreground="#d24d57" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="326,10,311,0" FontSize="44" Width="150" FontFamily="Comic Sans MS" FontWeight="Bold" Height="81"/>
+                    <Button x:Name="regBtn" Content="Register" Foreground="white" Background="#202347" HorizontalAlignment="Center" Height="30" Width="150" Margin="326,269,311,40"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Editor">
+                <Grid Background="#FFE5E5E5">
+                    <TextBox x:Name="textBox" Width="782"  FontSize="14"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
 
-        <TextBox x:Name="textBox" Width="782" Margin="0,5,0,1" FontSize="14"/>
+
     </DockPanel>
 </Window>
