@@ -1,0 +1,15 @@
+C:\Users\video doska\source\repos\TextWPF\TextWPF\bin\Release\TextWPF.exe.config
+C:\Users\video doska\source\repos\TextWPF\TextWPF\bin\Release\TextWPF.exe
+C:\Users\video doska\source\repos\TextWPF\TextWPF\bin\Release\TextWPF.pdb
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\TextWPF.csproj.AssemblyReference.cache
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\MainWindow.g.cs
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\App.g.cs
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\TextWPF_MarkupCompile.cache
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\TextWPF_MarkupCompile.lref
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\MainWindow.baml
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\TextWPF.g.resources
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\TextWPF.Properties.Resources.resources
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\TextWPF.csproj.GenerateResource.cache
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\TextWPF.csproj.CoreCompileInputs.cache
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\TextWPF.exe
+C:\Users\video doska\source\repos\TextWPF\TextWPF\obj\Release\TextWPF.pdb
